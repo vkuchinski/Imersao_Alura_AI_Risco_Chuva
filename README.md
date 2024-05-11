@@ -61,6 +61,7 @@ Local: Santa Maria, Rio Grande do Sul Data: 30/04/2024 Valor da Precipitação: 
 
 A precipitação registrada em Santa Maria em 30/04/2024 foi de 263,77 mm.
 A média mensal de precipitação para abril em Santa Maria é de 150 mm.
+
 **Análise do Risco**:
 
 Nível de risco: Vermelho (Grande Perigo)
